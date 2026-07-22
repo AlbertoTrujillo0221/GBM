@@ -1,10 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace CapacitacionGBM
+﻿namespace CapacitacionGBM
 {
     internal class Test
     {
+        public void FirstMethod()
+        {
+            Console.WriteLine("Test1");
+        }
     }
 }
