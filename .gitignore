@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CapacitacionGBM/bin/Debug/net10.0
+/CapacitacionGBM/obj
+/.vs/CapacitacionGBM.slnx/FileContentIndex
+/.vs/CapacitacionGBM.slnx/v18
