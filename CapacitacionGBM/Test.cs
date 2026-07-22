@@ -4,7 +4,11 @@ using System.Text;
 
 namespace CapacitacionGBM
 {
-    internal class Test
+    public class Test
     {
+        private void TestMethod()
+        {
+            Console.WriteLine("This is a test method.");
+        }
     }
 }
